@@ -86,12 +86,12 @@
 
 .action-modal__title-img.choose {
   height: 180px;
-  background-image: url("local/templates/b2c/img/city.jpg");
+  background-image: url("../local/templates/b2c/img/city.jpg");
 }
 
 .action-modal__title-img.vrf {
   height: 180px;
-  background-image: url("local/templates/b2c/img/vrf.jpg");
+  background-image: url("../local/templates/b2c/img/vrf.jpg");
 }
 
 button.action-modal__close {
