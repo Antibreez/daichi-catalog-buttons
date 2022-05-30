@@ -23,3 +23,7 @@ $inner.on("click", function (e) {
     $("body").removeClass("no-scroll");
   }
 });
+
+$(window).on("load", function () {
+  $('input[id="phone"]').inputmask("+7(999)999-99-99");
+});
